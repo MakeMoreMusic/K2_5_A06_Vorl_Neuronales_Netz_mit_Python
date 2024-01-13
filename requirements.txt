@@ -1,2 +1,2 @@
 #torchvision==0.2.2
-pytorch-accelerated==2.1.2
+pytorch-accelerated==0.1.47
