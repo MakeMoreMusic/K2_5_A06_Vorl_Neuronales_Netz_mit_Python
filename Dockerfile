@@ -4,7 +4,7 @@ USER root
 
 # Installiere erforderliche Systempakete
 RUN apt-get update && \
-    apt-get install -y libgl1-mesa-glx
+    apt-get install -y --fix-missing libgl1-mesa-glx
 
 USER $NB_UID
 
