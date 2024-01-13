@@ -9,4 +9,4 @@ RUN apt-get update && \
 USER $NB_UID
 
 # Installiere PyTorch
-RUN pip install torch==1.0.2
+RUN pip install torch==2.1.2
