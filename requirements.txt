@@ -1,4 +1,4 @@
-torch==2.1.2+cpu
+torch==2.1.2
 #torchvision==0.2.2
 keras==2.15.0
 torchsummary==1.5.1
