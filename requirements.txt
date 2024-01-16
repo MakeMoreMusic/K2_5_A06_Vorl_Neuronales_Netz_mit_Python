@@ -1,4 +1,4 @@
 torchvision==0.2.2
 keras==3.0.2
 torchsummary==1.5.1
-tensorflow>=2.16
+tensorflow==2.15.0
