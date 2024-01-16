@@ -1,4 +1,5 @@
-torchvision==0.2.2
-keras==3.0.0
+torch==2.1.2+cpu
+#torchvision==0.2.2
+keras==2.15.0
 torchsummary==1.5.1
 tensorflow==2.15.0
